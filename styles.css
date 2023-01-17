@@ -31,12 +31,12 @@ html {
 }
 #editor {
     width: 100%;
-  bbackground-color: white;
+  background-color: white;
 }
-header-div1 {
+#header-div1 {
     border: 1px solid green;
 }
-btn-div1 {
+#btn-div1 {
     border: 1px solid green;
 }
 
