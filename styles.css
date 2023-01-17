@@ -4,4 +4,10 @@
     height: auto;
     border: 1px solid black;
 }
+#editor-pane {
+    border: 1px solid black;
+    width: 70%;
+    height: auto;
+    margin: 50px auto 30px auto;
+}
 
