@@ -1,7 +1,7 @@
 html {
     font-size: 16px;
     font-family: 'Courier New', Courier, monospace;
-    
+
 }
 *::before, ::after {
     padding: 0;
@@ -25,8 +25,18 @@ html {
     width: 100%;
     background-color: whitesmoke;
     border: 1px solid blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 #editor {
     width: 100%;
-    background-color: white;
+  bbackground-color: white;
 }
+header-div1 {
+    border: 1px solid green;
+}
+btn-div1 {
+    border: 1px solid red;
+}
+
