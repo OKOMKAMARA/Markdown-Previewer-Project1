@@ -19,7 +19,7 @@ html {
     border: 1px solid red;
     width: 70%;
     height: auto;
-    margin: 50px auto 30px auto;
+    margin: 2rem  auto 1rem auto;
 }
 #editor-header {
     width: 100%;
@@ -35,9 +35,20 @@ html {
 }
 #header-div1 {
     border: 1px solid green;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 7rem;
 }
 #btn-div1 {
     border: 1px solid green;
+    width: 5rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.fa-free-code-camp {
+    
 }
 
 
